@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/jedis-2.7.0.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jedis-2.7.0.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="out/artifacts/redis_demo2_war_exploded/WEB-INF/classes"/>
+</classpath>
